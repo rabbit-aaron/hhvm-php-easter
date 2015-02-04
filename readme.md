@@ -1,3 +1,3 @@
 
-This piece of code is for you hhvm users who seek a solution to calculate the date of easter.
+This piece of code is for you hhvm users who seek a solution to calculate the date of Easter.
 The code is based on PHP's source code.
